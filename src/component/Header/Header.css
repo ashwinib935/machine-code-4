@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    justify-content: center;
+    text-align: start;
+}
+.navlink{
+    display: flex;
+    gap: 0.5rem;
+    text-decoration: none;
+    color: black;
+}
+.navlink:active,.navlink:focus,.navlink:focus{
+    color: black;
+}

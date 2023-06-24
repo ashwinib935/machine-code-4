@@ -1,0 +1,36 @@
+.postcard{
+    background-color: white;
+    display: flex;
+    padding: 1rem;
+    margin: 1rem;
+}
+.post-data{
+    display: flex;
+    flex-direction: column;
+    gap:0.5rem;
+    text-align: start;
+
+}
+.post-user{
+    display: flex;
+    gap: 0.5rem;
+}
+.userImage{
+    height: 2rem;
+    width: 1rem;
+}
+.tag-div{
+    display: flex;
+    gap:0.5rem
+
+}
+.tag{
+    width: 15%;
+    height: 1%;
+    background-color: lightblue;
+    color: blue;
+}
+.btn-action{
+    display: flex;
+    gap: 0.5rem;
+}
